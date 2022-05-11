@@ -15,5 +15,6 @@ Achieving this dense, “live-work balance” in Kendall Square represents a tra
 
 
 
-*The system dynamics model is most easily accessed here: https://insightmaker.com/insight/3UwevbUIr9Wsnt8K3WniX5/real-estate-pricing
-*The "improved" version of the system dynamics model can be accessed here: https://insightmaker.com/insight/6xagZgLlUUcXKvtKWBNMfv/intervention-real-estate-pricing
+The system dynamics model is most easily accessed here: https://insightmaker.com/insight/3UwevbUIr9Wsnt8K3WniX5/real-estate-pricing
+
+The "improved" version of the system dynamics model can be accessed here: https://insightmaker.com/insight/6xagZgLlUUcXKvtKWBNMfv/intervention-real-estate-pricing
